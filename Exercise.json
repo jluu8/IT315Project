@@ -1,20 +1,20 @@
 {
   "Exercise":
   {
-    {"Split":"Push","Exercise":"Bench Press","Sets":"3","Reps":"6","Equipment":"Dumbbells or Barbells","Muscles":"Chest, Shoulders, & Triceps","Image":""}
-    {"Split":"Push","Exercise":"Overhead Press","Sets":"3","Reps":"6","Equipment":"Dumbbells or Barbells","Muscles":"Shoulders & Triceps","Image":""}
-    {"Split":"Push","Exercise":"Lateral Raises","Sets":"3","Reps":"8","Equipment":"Dumbbells, Cables, or Barbells","Muscles":"Shoulders","Image":""}
-    {"Split":"Push","Exercise":"Push Ups","Sets":"3","Reps":"Till Failure","Equipment":"None","Muscles":"Triceps, Chest, & Shoulders","Image":""}
+    {"Split":"Push","Exercise":"Bench Press","Sets":"3","Reps":"6","Equipment":"Dumbbells or Barbells","Muscles":"Chest, Shoulders, & Triceps","Image":"https://raw.githubusercontent.com/jluu8/IT315Project/main/Bench.gif"}
+    {"Split":"Push","Exercise":"Overhead Press","Sets":"3","Reps":"6","Equipment":"Dumbbells or Barbells","Muscles":"Shoulders & Triceps","Image":"https://raw.githubusercontent.com/jluu8/IT315Project/main/Overhead.png"}
+    {"Split":"Push","Exercise":"Lateral Raises","Sets":"3","Reps":"8","Equipment":"Dumbbells, Cables, or Barbells","Muscles":"Shoulders","Image":"https://raw.githubusercontent.com/jluu8/IT315Project/main/Raises.png"}
+    {"Split":"Push","Exercise":"Push Ups","Sets":"3","Reps":"Till Failure","Equipment":"None","Muscles":"Triceps, Chest, & Shoulders","Image":"https://raw.githubusercontent.com/jluu8/IT315Project/main/PushUp.png"}
 
-    {"Split":"Legs","Exercise":"Squats","Sets":"3","Reps":"6","Equipment":"Squat Rack or Squat Machine","Muscles":"Quad, Hams, Glutes, & Calves","Image":""}
-    {"Split":"Legs","Exercise":"Leg Press","Sets":"3","Reps":"6","Equipment":"Leg Press Machine","Muscles":"Quad, Hams, Glutes, & Calves","Image":""}
-    {"Split":"Legs","Exercise":"Calf Raises","Sets":"3","Reps":"8","Equipment":"Dumbbells, Barbell, or Calf Machine","Muscles":"Calves","Image":""}
-    {"Split":"Legs","Exercise":"Lunges","Sets":"3","Reps":"8","Equipment":"Barbell or Dumbebells","Muscles":"Quad, Hams, Glutes, & Calves","Image":""}
+    {"Split":"Legs","Exercise":"Squats","Sets":"3","Reps":"6","Equipment":"Squat Rack or Squat Machine","Muscles":"Quad, Hams, Glutes, & Calves","Image":"https://raw.githubusercontent.com/jluu8/IT315Project/main/Squats.jpg"}
+    {"Split":"Legs","Exercise":"Leg Press","Sets":"3","Reps":"6","Equipment":"Leg Press Machine","Muscles":"Quad, Hams, Glutes, & Calves","Image":"https://raw.githubusercontent.com/jluu8/IT315Project/main/LegPress.png"}
+    {"Split":"Legs","Exercise":"Calf Raises","Sets":"3","Reps":"8","Equipment":"Dumbbells, Barbell, or Calf Machine","Muscles":"Calves","Image":"https://raw.githubusercontent.com/jluu8/IT315Project/main/CalfRaises.jpg"}
+    {"Split":"Legs","Exercise":"Lunges","Sets":"3","Reps":"8","Equipment":"Barbell or Dumbebells","Muscles":"Quad, Hams, Glutes, & Calves","Image":"https://raw.githubusercontent.com/jluu8/IT315Project/main/Lunges"}
 
-    {"Split":"Pull","Exercise":"Bent Over Rows","Sets":"3","Reps":"6","Equipment":"Dumbbells or Barbells","Muscles":"Back","Image":""}
-    {"Split":"Pull","Exercise":"Deadlifts","Sets":"3","Reps":"5","Equipment":"Barbells","Muscles":"Glutes, Back, & Hamstrings","Image":""}
-    {"Split":"Pull","Exercise":"Bicep Curls","Sets":"3","Reps":"8","Equipment":"Dumbbells, Cables, or Barbells","Muscles":"Biceps","Image":""}
-    {"Split":"Pull","Exercise":"Pull Ups","Sets":"3","Reps":"Till Failure","Equipment":"None","Muscles":"Back, Biceps","Image":""}
+    {"Split":"Pull","Exercise":"Bent Over Rows","Sets":"3","Reps":"6","Equipment":"Dumbbells or Barbells","Muscles":"Back","Image":"https://raw.githubusercontent.com/jluu8/IT315Project/main/Rows.jpg"}
+    {"Split":"Pull","Exercise":"Deadlifts","Sets":"3","Reps":"5","Equipment":"Barbells","Muscles":"Glutes, Back, & Hamstrings","Image":"https://raw.githubusercontent.com/jluu8/IT315Project/main/Deadlift.jpg"}
+    {"Split":"Pull","Exercise":"Bicep Curls","Sets":"3","Reps":"8","Equipment":"Dumbbells, Cables, or Barbells","Muscles":"Biceps","Image":"https://raw.githubusercontent.com/jluu8/IT315Project/main/BicepCurls.png"}
+    {"Split":"Pull","Exercise":"Pull Ups","Sets":"3","Reps":"Till Failure","Equipment":"None","Muscles":"Back, Biceps","Image":"https://raw.githubusercontent.com/jluu8/IT315Project/main/PullUps.png"}
     
     
     
