@@ -1,9 +1,20 @@
 {
   "Exercise":
   {
-    
-    
-    
+    {"Split":"Push","Exercise":"Bench Press","Sets":"3","Reps":"6","Equipment":"Dumbbells or Barbells","Muscles":"Chest, Shoulders, & Triceps","Image":""}
+    {"Split":"Push","Exercise":"Overhead Press","Sets":"3","Reps":"6","Equipment":"Dumbbells or Barbells","Muscles":"Shoulders & Triceps","Image":""}
+    {"Split":"Push","Exercise":"Lateral Raises","Sets":"3","Reps":"8","Equipment":"Dumbbells, Cables, or Barbells","Muscles":"Shoulders","Image":""}
+    {"Split":"Push","Exercise":"Push Ups","Sets":"3","Reps":"Till Failure","Equipment":"None","Muscles":"Triceps, Chest, & Shoulders","Image":""}
+
+    {"Split":"Legs","Exercise":"Squats","Sets":"3","Reps":"6","Equipment":"Squat Rack or Squat Machine","Muscles":"Quad, Hams, Glutes, & Calves","Image":""}
+    {"Split":"Legs","Exercise":"Leg Press","Sets":"3","Reps":"6","Equipment":"Leg Press Machine","Muscles":"Quad, Hams, Glutes, & Calves","Image":""}
+    {"Split":"Legs","Exercise":"Calf Raises","Sets":"3","Reps":"8","Equipment":"Dumbbells, Barbell, or Calf Machine","Muscles":"Calves","Image":""}
+    {"Split":"Legs","Exercise":"Lunges","Sets":"3","Reps":"8","Equipment":"Barbell or Dumbebells","Muscles":"Quad, Hams, Glutes, & Calves","Image":""}
+
+    {"Split":"Pull","Exercise":"Bent Over Rows","Sets":"3","Reps":"6","Equipment":"Dumbbells or Barbells","Muscles":"Back","Image":""}
+    {"Split":"Pull","Exercise":"Deadlifts","Sets":"3","Reps":"5","Equipment":"Barbells","Muscles":"Glutes, Back, & Hamstrings","Image":""}
+    {"Split":"Pull","Exercise":"Bicep Curls","Sets":"3","Reps":"8","Equipment":"Dumbbells, Cables, or Barbells","Muscles":"Biceps","Image":""}
+    {"Split":"Pull","Exercise":"Pull Ups","Sets":"3","Reps":"Till Failure","Equipment":"None","Muscles":"Back, Biceps"","Image":""}
     
     
     
