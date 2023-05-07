@@ -1,20 +1,20 @@
 {
   "Exercise":
   [
-    {"Split":"Push","Exercise":"Bench Press","Sets":"3","Reps":"6","Equipment":"Dumbbells or Barbells","Muscles":"Chest, Shoulders, & Triceps","Image":"https://raw.githubusercontent.com/jluu8/IT315Project/main/Bench.gif"}
-    {"Split":"Push","Exercise":"Overhead Press","Sets":"3","Reps":"6","Equipment":"Dumbbells or Barbells","Muscles":"Shoulders & Triceps","Image":"https://raw.githubusercontent.com/jluu8/IT315Project/main/Overhead.png"}
-    {"Split":"Push","Exercise":"Lateral Raises","Sets":"3","Reps":"8","Equipment":"Dumbbells, Cables, or Barbells","Muscles":"Shoulders","Image":"https://raw.githubusercontent.com/jluu8/IT315Project/main/Raises.png"}
-    {"Split":"Push","Exercise":"Push Ups","Sets":"3","Reps":"Till Failure","Equipment":"None","Muscles":"Triceps, Chest, & Shoulders","Image":"https://raw.githubusercontent.com/jluu8/IT315Project/main/PushUp.png"}
+    {"PHLift":"Push","PHExercise":"Bench Press","PHSets":"3","PHReps":"6","PHEquipment":"Dumbbells or Barbells","PHMuscles":"Chest, Shoulders, & Triceps","PHExerciseImg":"https://raw.githubusercontent.com/jluu8/IT315Project/main/Bench.gif"}
+    {"PHLift":"Push","PHExercise":"Overhead Press","PHSets":"3","PHReps":"6","PHEquipment":"Dumbbells or Barbells","PHMuscles":"Shoulders & Triceps","PHExerciseImg":"https://raw.githubusercontent.com/jluu8/IT315Project/main/Overhead.png"}
+    {"PHLift":"Push","PHExercise":"Lateral Raises","PHSets":"3","PHReps":"8","PHEquipment":"Dumbbells, Cables, or Barbells","PHMuscles":"Shoulders","PHExerciseImg":"https://raw.githubusercontent.com/jluu8/IT315Project/main/Raises.png"}
+    {"PHLift":"Push","PHExercise":"Push Ups","PHSets":"3","RPHeps":"Till Failure","PHEquipment":"None","PHMuscles":"Triceps, Chest, & Shoulders","PHExerciseImg":"https://raw.githubusercontent.com/jluu8/IT315Project/main/PushUp.png"}
 
-    {"Split":"Legs","Exercise":"Squats","Sets":"3","Reps":"6","Equipment":"Squat Rack or Squat Machine","Muscles":"Quad, Hams, Glutes, & Calves","Image":"https://raw.githubusercontent.com/jluu8/IT315Project/main/Squats.jpg"}
-    {"Split":"Legs","Exercise":"Leg Press","Sets":"3","Reps":"6","Equipment":"Leg Press Machine","Muscles":"Quad, Hams, Glutes, & Calves","Image":"https://raw.githubusercontent.com/jluu8/IT315Project/main/LegPress.png"}
-    {"Split":"Legs","Exercise":"Calf Raises","Sets":"3","Reps":"8","Equipment":"Dumbbells, Barbell, or Calf Machine","Muscles":"Calves","Image":"https://raw.githubusercontent.com/jluu8/IT315Project/main/CalfRaises.jpg"}
-    {"Split":"Legs","Exercise":"Lunges","Sets":"3","Reps":"8","Equipment":"Barbell or Dumbebells","Muscles":"Quad, Hams, Glutes, & Calves","Image":"https://raw.githubusercontent.com/jluu8/IT315Project/main/Lunges"}
+    {"PHLift":"Legs","PHExercise":"Squats","PHSets":"3","PHReps":"6","PHEquipment":"Squat Rack or Squat Machine","PHMuscles":"Quad, Hams, Glutes, & Calves","PHExerciseImg":"https://raw.githubusercontent.com/jluu8/IT315Project/main/Squats.jpg"}
+    {"PHLift":"Legs","PHExercise":"Leg Press","PHSets":"3","PHReps":"6","PHEquipment":"Leg Press Machine","PHMuscles":"Quad, Hams, Glutes, & Calves","PHExerciseImg":"https://raw.githubusercontent.com/jluu8/IT315Project/main/LegPress.png"}
+    {"PHLift":"Legs","PHExercise":"Calf Raises","PHSets":"3","PHReps":"8","PHEquipment":"Dumbbells, Barbell, or Calf Machine","PHMuscles":"Calves","PHExerciseImg":"https://raw.githubusercontent.com/jluu8/IT315Project/main/CalfRaises.jpg"}
+    {"PHLift":"Legs","PHExercise":"Lunges","PHSets":"3","PHReps":"8","PHEquipment":"Barbell or Dumbebells","PHMuscles":"Quad, Hams, Glutes, & Calves","PHExerciseImg":"https://raw.githubusercontent.com/jluu8/IT315Project/main/Lunges"}
 
-    {"Split":"Pull","Exercise":"Bent Over Rows","Sets":"3","Reps":"6","Equipment":"Dumbbells or Barbells","Muscles":"Back","Image":"https://raw.githubusercontent.com/jluu8/IT315Project/main/Rows.jpg"}
-    {"Split":"Pull","Exercise":"Deadlifts","Sets":"3","Reps":"5","Equipment":"Barbells","Muscles":"Glutes, Back, & Hamstrings","Image":"https://raw.githubusercontent.com/jluu8/IT315Project/main/Deadlift.jpg"}
-    {"Split":"Pull","Exercise":"Bicep Curls","Sets":"3","Reps":"8","Equipment":"Dumbbells, Cables, or Barbells","Muscles":"Biceps","Image":"https://raw.githubusercontent.com/jluu8/IT315Project/main/BicepCurls.png"}
-    {"Split":"Pull","Exercise":"Pull Ups","Sets":"3","Reps":"Till Failure","Equipment":"None","Muscles":"Back, Biceps","Image":"https://raw.githubusercontent.com/jluu8/IT315Project/main/PullUps.png"}
+    {"PHLift":"Pull","PHExercise":"Bent Over Rows","PHSets":"3","PHReps":"6","PHEquipment":"Dumbbells or Barbells","PHMuscles":"Back","PHExerciseImg":"https://raw.githubusercontent.com/jluu8/IT315Project/main/Rows.jpg"}
+    {"PHLift":"Pull","PHExercise":"Deadlifts","PHSets":"3","PHReps":"5","PHEquipment":"Barbells","PHMuscles":"Glutes, Back, & Hamstrings","PHExerciseImg":"https://raw.githubusercontent.com/jluu8/IT315Project/main/Deadlift.jpg"}
+    {"PHLift":"Pull","PHExercise":"Bicep Curls","PHSets":"3","PHReps":"8","PHEquipment":"Dumbbells, Cables, or Barbells","PHMuscles":"Biceps","PHExerciseImg":"https://raw.githubusercontent.com/jluu8/IT315Project/main/BicepCurls.png"}
+    {"PHLift":"Pull","PHExercise":"Pull Ups","PHSets":"3","PHReps":"Till Failure","PHEquipment":"None","PHMuscles":"Back, Biceps","PHExerciseImg":"https://raw.githubusercontent.com/jluu8/IT315Project/main/PullUps.png"}
     
     
     
